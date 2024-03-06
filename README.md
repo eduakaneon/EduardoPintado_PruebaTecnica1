@@ -46,3 +46,11 @@ Se utilizan excepciones específicas y mensajes de error descriptivos para propo
 -Utilización de TypedQuery en el controlador JPA
 Se ha incorporado el uso de TypedQuery en el controlador JPA (empleadoJpaController1) para definir consultas personalizadas directamente en el código Java. 
 Esto amplía las capacidades de consulta de la aplicación y proporciona una forma más flexible de interactuar con la base de datos. (Implementado en Buscar por cargo)
+
+**Ejecución del Proyecto**
+Para ejecutar el proyecto, sigue estos pasos:
+
+1.Clona este repositorio en tu máquina local.
+2.Abre el proyecto en tu entorno de desarrollo preferido (por ejemplo, IntelliJ IDEA, Eclipse).
+3.Configura la conexión a tu base de datos en el archivo persistence.xml ubicado en src/main/resources/META-INF.
+4.Ejecuta la clase GestorEmpleados para iniciar la aplicación.
